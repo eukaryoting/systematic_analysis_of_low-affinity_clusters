@@ -1,0 +1,97 @@
+Well	Strain	Promoter	Media	Replicate	
+A1	sAS001	xxxxxx	URA	1	
+A2	sAS002	W2xxxxx	URA	1	
+A3	sAS003	S1xxxxx	URA	1	
+A4	sAS004	M1xxxxx	URA	1	
+A5	sAS005	W2W3W1xxx	URA	1	
+A6	sAS006	M1M2M3xxx	URA	1	
+A7	sAS007	W2W3W1W4W3W2	URA	1	
+A8	sAS008	M1M2M3M4M5M6	URA	1	
+A9	BL	BL	URA	1	
+A10	BL	BL	URA	2	
+A11	BL	BL	URA	3	
+A12					
+B1	sAS001	xxxxxx	URA	2	
+B2	sAS002	W2xxxxx	URA	2	
+B3	sAS003	S1xxxxx	URA	2	
+B4	sAS004	M1xxxxx	URA	2	
+B5	sAS005	W2W3W1xxx	URA	2	
+B6	sAS006	M1M2M3xxx	URA	2	
+B7	sAS007	W2W3W1W4W3W2	URA	2	
+B8	sAS008	M1M2M3M4M5M6	URA	2	
+B9	BL	BL	URA	4	
+B10	BL	BL	URA	5	
+B11	BL	BL	URA	6	
+B12					
+C1	sAS001	xxxxxx	URA	3	
+C2	sAS002	W2xxxxx	URA	3	
+C3	sAS003	S1xxxxx	URA	3	
+C4	sAS004	M1xxxxx	URA	3	
+C5	sAS005	W2W3W1xxx	URA	3	
+C6	sAS006	M1M2M3xxx	URA	3	
+C7	sAS007	W2W3W1W4W3W2	URA	3	
+C8	sAS008	M1M2M3M4M5M6	URA	3	
+C9	BL	BL	URA	7	
+C10	BL	BL	URA	8	
+C11	BL	BL	URA	9	
+C12					
+D1	sAS001	xxxxxx	URA	4	
+D2	sAS002	W2xxxxx	URA	4	
+D3	sAS003	S1xxxxx	URA	4	
+D4	sAS004	M1xxxxx	URA	4	
+D5	sAS005	W2W3W1xxx	URA	4	
+D6	sAS006	M1M2M3xxx	URA	4	
+D7	sAS007	W2W3W1W4W3W2	URA	4	
+D8	sAS008	M1M2M3M4M5M6	URA	4	
+D9	BL	BL	URA	10	
+D10	BL	BL	URA	11	
+D11	BL	BL	URA	12	
+D12					
+E1	sAS001	xxxxxx	200 nM beta estradiol	1	
+E2	sAS002	W2xxxxx	200 nM beta estradiol	1	
+E3	sAS003	S1xxxxx	200 nM beta estradiol	1	
+E4	sAS004	M1xxxxx	200 nM beta estradiol	1	
+E5	sAS005	W2W3W1xxx	200 nM beta estradiol	1	
+E6	sAS006	M1M2M3xxx	200 nM beta estradiol	1	
+E7	sAS007	W2W3W1W4W3W2	200 nM beta estradiol	1	
+E8	sAS008	M1M2M3M4M5M6	200 nM beta estradiol	1	
+E9	BL	BL	200 nM beta estradiol	1	
+E10	BL	BL	200 nM beta estradiol	2	
+E11	BL	BL	200 nM beta estradiol	3	
+E12					
+F1	sAS001	xxxxxx	200 nM beta estradiol	2	
+F2	sAS002	W2xxxxx	200 nM beta estradiol	2	
+F3	sAS003	S1xxxxx	200 nM beta estradiol	2	
+F4	sAS004	M1xxxxx	200 nM beta estradiol	2	
+F5	sAS005	W2W3W1xxx	200 nM beta estradiol	2	
+F6	sAS006	M1M2M3xxx	200 nM beta estradiol	2	
+F7	sAS007	W2W3W1W4W3W2	200 nM beta estradiol	2	
+F8	sAS008	M1M2M3M4M5M6	200 nM beta estradiol	2	
+F9	BL	BL	200 nM beta estradiol	4	
+F10	BL	BL	200 nM beta estradiol	5	
+F11	BL	BL	200 nM beta estradiol	6	
+F12					
+G1	sAS001	xxxxxx	200 nM beta estradiol	3	
+G2	sAS002	W2xxxxx	200 nM beta estradiol	3	
+G3	sAS003	S1xxxxx	200 nM beta estradiol	3	
+G4	sAS004	M1xxxxx	200 nM beta estradiol	3	
+G5	sAS005	W2W3W1xxx	200 nM beta estradiol	3	
+G6	sAS006	M1M2M3xxx	200 nM beta estradiol	3	
+G7	sAS007	W2W3W1W4W3W2	200 nM beta estradiol	3	
+G8	sAS008	M1M2M3M4M5M6	200 nM beta estradiol	3	
+G9	BL	BL	200 nM beta estradiol	7	
+G10	BL	BL	200 nM beta estradiol	8	
+G11	BL	BL	200 nM beta estradiol	9	
+G12					
+H1	sAS001	xxxxxx	200 nM beta estradiol	4	
+H2	sAS002	W2xxxxx	200 nM beta estradiol	4	
+H3	sAS003	S1xxxxx	200 nM beta estradiol	4	
+H4	sAS004	M1xxxxx	200 nM beta estradiol	4	
+H5	sAS005	W2W3W1xxx	200 nM beta estradiol	4	
+H6	sAS006	M1M2M3xxx	200 nM beta estradiol	4	
+H7	sAS007	W2W3W1W4W3W2	200 nM beta estradiol	4	
+H8	sAS008	M1M2M3M4M5M6	200 nM beta estradiol	4	
+H9	BL	BL	200 nM beta estradiol	10	
+H10	BL	BL	200 nM beta estradiol	11	
+H11	BL	BL	200 nM beta estradiol	12	
+H12					
